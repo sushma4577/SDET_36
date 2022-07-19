@@ -25,5 +25,6 @@ public void practice2Test() {
 @Test
 public void practice3Test() {
 	System.out.println("Test1===>class1");
+	System.out.println("Test2===>class1");
 }
 }
