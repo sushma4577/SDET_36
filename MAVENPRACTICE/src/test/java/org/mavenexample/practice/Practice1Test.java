@@ -13,8 +13,6 @@ System.out.println("url"+URL);
 System.out.println("username"+USERNAME);
 System.out.println("password"+PASSWORD);
 System.out.println("Test1===>class1");
-	//hi
-	
 
 }
 
@@ -22,7 +20,6 @@ System.out.println("Test1===>class1");
 @Test
 public void practice2Test() {
 	System.out.println("Test1===>class1");
-	//hi hello
 }
 
 @Test
