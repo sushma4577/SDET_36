@@ -12,7 +12,7 @@ String PASSWORD = System.getProperty("password");
 System.out.println("url"+URL);
 System.out.println("username"+USERNAME);
 System.out.println("password"+PASSWORD);
-System.out.println("Test1===>class1");
+System.out.println("Test1===>class1 hi buddy");
 //hi
 
 }
